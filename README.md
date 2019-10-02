@@ -9,3 +9,7 @@ The information that they will be given is :
 after this a user can save the data they collected, and later on using Matplotlib the user can graph the 
 saved data they have amassed.
 
+# Requirements
+ - bs4
+ - Matplotlib
+ - Colorama
