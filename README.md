@@ -1,6 +1,5 @@
 ![](images/EbayScrape.PNG)
-![](images/EbayScrape#3.PNG)
-![](images/EbayScrape#4.PNG)
+![](images/EbayScrape%234.PNG)
 
 # Ebay_PriceScrape
 Using the beautiful Soup library, a user is able to determine information about a specific product they request.
