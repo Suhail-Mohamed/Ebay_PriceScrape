@@ -1,6 +1,3 @@
-![](images/EbayScrape.PNG)
-![](images/EbayScrape%234.PNG)
-
 # Ebay_PriceScrape
 Using the beautiful Soup library, a user is able to determine information about a specific product they request.
 The information that they will be given is :
@@ -17,3 +14,8 @@ saved data they have amassed.
  - bs4
  - Matplotlib
  - Colorama
+
+
+![](images/EbayScrape.PNG)
+![](images/EbayScrape%234.PNG)
+![](images/EbayScrape%233.PNG)
